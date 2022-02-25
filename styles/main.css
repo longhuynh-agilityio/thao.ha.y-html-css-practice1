@@ -1,0 +1,252 @@
+* {
+    /*reset all m and p to 0*/
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.header {
+    background-image: url("./images/Background.png");
+    width: 100%;
+    height: 680px;
+    background-size: cover;
+    position: relative;
+}
+.header h1 {
+    position: absolute;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 34px;
+    line-height: 44px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+    letter-spacing: 1.99699px;
+    top: 38px;
+    left: 168px;
+    color: #ebcb80;
+}
+
+.nav-bar ul {
+    display: flex;
+    position: absolute;
+    top: 50px;
+    right: 353px;
+}
+.nav-bar ul li {
+    color: white;
+    font-family: SourceSansPro;
+    font-size: 18px;
+    line-height: 21px;
+    margin-right: 50px;
+}
+
+.take-btn {
+    position: absolute;
+    top: 39px;
+    right: 171px;
+}
+.take-btn button {
+    font-family: Montserrat;
+    background-color: initial;
+    font-size: 15px;
+    line-height: 20px;
+    color: white;
+    border: 2px solid #ffffff;
+    box-sizing: border-box;
+    border-radius: 50px;
+    width: 179px;
+    height: 46px;
+}
+
+.title {
+    position: absolute;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 44px;
+    line-height: 48px;
+    color: #ffffff;
+    top: 229px;
+    left: 442px;
+    width: 39%;
+    text-align: center;
+}
+.topic {
+    position: absolute;
+    left: 448px;
+    top: 347px;
+    font-family: SourceSansPro;
+    font-size: 16px;
+    line-height: 24px;
+
+    text-align: center;
+    width: 542px;
+    color: #ffffff;
+}
+.explore-btn {
+    position: absolute;
+    width: 157px;
+    height: 44px;
+    left: 646px;
+    top: 470px;
+    font-family: Montserrat;
+    background: #ebcb80;
+    border-radius: 50px;
+    color: #4b4b4b;
+}
+/* subscribing plans */
+.content-sp {
+    width: 1140px;
+    margin: auto;
+    padding-bottom: 90px;
+    background: #f6f6f6;
+}
+.sp-title {
+    text-align: center;
+    color: #4b4b4b;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 44px;
+    padding-top: 40px;
+}
+.cards {
+    display: flex;
+    margin-top: 45px;
+    margin-left: -25px;
+}
+.card {
+    box-shadow: 0px 2px 4px rgb(0 0 0 / 50%);
+    width: 262px;
+    height: 372px;
+    margin-right: 36px;
+}
+.card-header {
+    position: relative;
+}
+.card-image {
+}
+.card-title-top {
+    position: absolute;
+    font-family: Source Sans Pro;
+    font-weight: bold;
+    font-size: 17px;
+    line-height: 27px;
+    text-align: center;
+    color: #ffffff;
+    top: 43px;
+    left: 86px;
+}
+.dolar {
+    position: absolute;
+    font-family: Montserrat;
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff;
+    top: 80px;
+    left: 89px;
+}
+.number {
+    position: absolute;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    top: 64px;
+    left: 103px;
+    font-size: 43px;
+
+    color: #ffffff;
+}
+.card-bottom {
+    width: 262px;
+    position: relative;
+}
+.card-topic {
+    font-family: SourceSansPro;
+    font-size: 16px;
+    line-height: 26px;
+
+    text-align: center;
+    margin-top: 10px;
+
+    color: #4b4b4b;
+}
+.card-footer {
+    position: absolute;
+    top: 130px;
+    left: 69px;
+    color: #4b4b4b;
+    font-family: Montserrat;
+}
+.card-footer button {
+    background: #ebcb80;
+    border-radius: 50px;
+    width: 140px;
+    height: 41px;
+    position: absolute;
+    left: -6px;
+    top: -9px;
+    border: none;
+    color: #4b4b4b;
+}
+/* Features */
+
+.layout {
+    display: flex;
+    width: 1140px;
+    margin: auto;
+    margin-top: 30px;
+    padding-bottom: 30px;
+}
+.content-features h1 {
+    text-align: center;
+    font-family: Montserrat;
+
+    font-weight: bold;
+    font-size: 44px;
+    line-height: 48px;
+    color: #4b4b4b;
+    padding-top: 30px;
+}
+.content-features h3 {
+    text-align: center;
+    font-family: Montserrat;
+
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 48px;
+    color: #4b4b4b;
+}
+
+.layout-left-content {
+    display: flex;
+    margin-bottom: 30px;
+}
+.layout-left-content img {
+    height: 50px;
+    width: 58px;
+}
+.respopnsive {
+    margin-left: 20px;
+}
+.res-layout {
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 30px;
+    color: #4b4b4b;
+}
+.res-ex {
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+    width: 262px;
+    height: 72px;
+}
+.layout-right {
+    margin-left: 50px;
+}
