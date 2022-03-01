@@ -72,7 +72,7 @@
     width: 39%;
     text-align: center;
 }
-.topic {
+.description {
     position: absolute;
     left: 448px;
     top: 347px;
@@ -127,8 +127,7 @@
 .card-header {
     position: relative;
 }
-.card-image {
-}
+
 .card-title-top {
     position: absolute;
     font-family: Source Sans Pro;
@@ -242,7 +241,7 @@
     line-height: 30px;
     color: #4b4b4b;
 }
-.res-ex {
+.res-description {
     font-family: Source Sans Pro;
     font-style: normal;
     font-weight: 300;
@@ -266,7 +265,7 @@
     color: #4b4b4b;
     text-align: center;
 }
-.stunning-ex {
+.stunning-description {
     font-family: Source Sans Pro;
     font-style: normal;
     font-weight: normal;
@@ -408,7 +407,7 @@
 .form-input {
     width: 256px;
     height: 36px;
-
+    padding: 20px;
     mix-blend-mode: normal;
     opacity: 0.8;
     border: 1px solid #999999;
