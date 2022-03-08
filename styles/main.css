@@ -7,6 +7,7 @@
     background-image: url(../images/background.jpg);
     padding-top: 30px;
 }
+
 .banner {
     width: 1140px;
     margin: auto;
@@ -88,6 +89,7 @@
     color: #ffffff;
     margin-top: 30px;
 }
+
 .explore-btn {
     width: 157px;
     height: 44px;
@@ -100,6 +102,7 @@
     margin-top: 30px;
 }
 /* subscribing plans */
+
 .subscribing {
     background: #f6f6f6;
 }
@@ -273,6 +276,7 @@
     width: 262px;
     height: 72px;
 }
+
 .layout-right {
     margin-left: 50px;
 }
@@ -284,6 +288,7 @@
     width: 1140px;
     margin: auto;
 }
+
 .stunning-title {
     font-family: Montserrat;
     font-style: normal;
@@ -383,7 +388,6 @@
     height: 200px;
     fill: none;
     stroke-width: 7;
-
     transform: translate(5px, 5px);
 }
 
@@ -406,7 +410,6 @@
     height: 1200px;
     fill: none;
     stroke-width: 7;
-
     transform: translate(5px, 5px);
 }
 

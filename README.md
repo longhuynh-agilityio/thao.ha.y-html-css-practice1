@@ -1,4 +1,4 @@
-# thao.ha.y-html-css-practice1
+#thao.ha.y-html-css-practice1
 # OVERVIEW
 
 This document provides a detailed estimate of the HTML/CSS practice.
