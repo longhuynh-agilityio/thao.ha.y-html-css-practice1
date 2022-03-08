@@ -1,30 +1,25 @@
 # thao.ha.y-html-css-practice1
-
-OVERVIEW
+# OVERVIEW
 
 This document provides a detailed estimate of the HTML/CSS practice.
 
-
-TECHNICAL
+# TECHNICAL
 
 HTML5/CSS3
 
 FlexBox
 
-TARGETS
+# TARGETS
 
 Understand HTML/CSS properties and use them correctly
 Slice from Sketch to HTML/CSS
 Understand the concepts of Flex
 
+# EXERCISE
 
-EXERCISE
+Build website user interface from existing designs
 
-Build website user interface from existing designs 
-
-
-
-TIMELINE
+# TIMELINE
 
 Estimated time: 4 days (24/02-02/03)
 
